@@ -70,9 +70,9 @@ Explore how data analytics can foster equity in the workplace using real-world H
 
 - 🌐 [Portfolio Website](https://portfolio-abderrahim.netlify.app/)
 - 🐦 [Twitter](https://twitter.com/your-handle)
-- 💼 [LinkedIn]([www.linkedin.com/in/haddaji-abderrahim](https://www.linkedin.com/in/haddaji-abderrahim/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/haddaji-abderrahim/)
 - 📚 [Medium](https://medium.com/@haddeji.abderrahim)
-- 💻 [GitHub](https://github.com/haddeji-abderrahim)
+- 💻 [GitHub](https://github.com/Abderrahim-HADDEJI)
 
 ---
 
